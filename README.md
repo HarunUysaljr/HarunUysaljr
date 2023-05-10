@@ -42,6 +42,7 @@
 
    <hr>
    </hr>
+   <br>
 <p align="center">
    <i>Your Future İs Created By What You Do Today</i>
    <br>
