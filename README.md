@@ -40,7 +40,8 @@
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     </p>
 
-    <hr>
+   <hr>
+   </hr>
 <p align="center">
    <i>Your Future İs Created By What You Do Today</i>
    <br>
