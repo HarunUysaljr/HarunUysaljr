@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **.Net / SQL**
 
-- 📫 How to reach me **harunuysaljr@gmail.com**
+- 📫 How to reach Me **harunuysaljr@gmail.com**
 
 
 
