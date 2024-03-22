@@ -2,7 +2,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Merhaba 👋, Ben Harun</h1>
 
-<h3 align="center">Junior  🤓 Full-Stack Developer </h3>
+<h3 align="center">Software Developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 
