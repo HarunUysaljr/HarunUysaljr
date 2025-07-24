@@ -45,7 +45,7 @@
 <p align="center">
    <i>Your Future İs Created By What You Do Today</i>
    <br>
-   <i><strike>Not Tomorrow</strike></i>
+   <i><strike>Not  Tomorrow</strike></i>
    <br>
 </p>
 <br>
